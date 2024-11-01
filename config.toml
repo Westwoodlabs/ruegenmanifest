@@ -1,4 +1,4 @@
-baseURL = "https://ruegenmanifest.de"
+baseURL = "https://westwoodlabs.github.io/ruegenmanifest"
 languageCode = "de-de"
 title = "Das Rügenmanifest"
 theme="archie"
