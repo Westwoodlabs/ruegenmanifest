@@ -1,0 +1,3 @@
+# Das Rügenmanifest
+
+WIP...
