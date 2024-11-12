@@ -3,6 +3,8 @@ languageCode = "de-de"
 title = "Das Rügenmanifest"
 theme="archie"
 copyright = "Westwoodlabs e.V."
+canonifyURLs = false
+relativeURLs = true
 
 [params]
 	mode="auto" # color-mode → light,dark,toggle or auto
