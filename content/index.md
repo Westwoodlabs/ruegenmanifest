@@ -3,6 +3,8 @@ title: "Das Rügenmanifest"
 date: 2024-11-01T00:36:24Z
 draft: false
 toc: true
+type: _default
+layout: single
 ---
 
 ## Allgemeines
